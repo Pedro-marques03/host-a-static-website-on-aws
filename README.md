@@ -30,7 +30,7 @@ The architecture diagram for this setup can be found in the project's GitHub rep
 
 ### Prerequisites
 - AWS account with permissions to create and configure VPC, EC2, and related services.
-- Domain name registered via Route 53 (or another domain registrar).
+- Domain name registered via Route 53 (or another domain register).
 - Git installed on your local machine for cloning the repository.
 - SSL certificate configured in AWS Certificate Manager.
 

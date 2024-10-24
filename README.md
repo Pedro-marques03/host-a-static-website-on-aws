@@ -1,5 +1,3 @@
-Here's a draft for the README file based on the details you provided:
-
 ---
 
 # Static Website Hosted on AWS EC2
@@ -83,7 +81,7 @@ cd /var/www/html
 yum install git -y
 
 # Clone the project GitHub repository to the current directory
-git clone https://github.com/aosnotes77/host-a-static-website-on-aws.git
+git clone https://github.com/Pedro-marques03/host-a-static-website-on-aws/
 
 # Copy all files, including hidden ones, from the cloned repository to the Apache web root
 cp -R host-a-static-website-on-aws/. /var/www/html/
@@ -99,8 +97,6 @@ systemctl start httpd
 ```
 
 ### Conclusion
-This project demonstrates a comprehensive approach to hosting a static website on AWS using EC2, VPC, Load Balancing, Auto Scaling, and other AWS services. For further details, including the reference architecture diagram and scripts, please visit the [GitHub repository](https://github.com/aosnotes77/host-a-static-website-on-aws).
+This project demonstrates a comprehensive approach to hosting a static website on AWS using EC2, VPC, Load Balancing, Auto Scaling, and other AWS services. For further details, including the reference architecture diagram and scripts, please visit the [GitHub repository](https://github.com/Pedro-marques03/host-a-static-website-on-aws/).
 
 ---
-
-Feel free to modify or expand this README based on your preferences!

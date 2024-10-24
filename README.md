@@ -100,4 +100,4 @@ systemctl start httpd
 This project demonstrates a comprehensive approach to hosting a static website on AWS using EC2, VPC, Load Balancing, Auto Scaling, and other AWS services. For further details, including the reference architecture diagram and scripts, please visit the [GitHub repository](https://github.com/Pedro-marques03/host-a-static-website-on-aws/).
 
 ---
-![Alt text](Host_a_Static_Website_on_AWS (1).png)
+![Alt text](Host_a_Static_Website_on_AWS.png)
